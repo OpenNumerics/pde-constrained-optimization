@@ -6,7 +6,7 @@ PDE‑constrained optimization. This repository contains the code behind Hannes 
 blog posts on PDE-constrained optimization, which is a trimmed down 
 version of one of Open Numerics' recent projects for a client.
 
-If you're interested in the theory behind PDE-constrained optimization read (here)[https://www.hvandecasteele.com/blog/pde-constrained-optimization/]. If you want to read about this specific test case, go to the (blog post)[https://www.hvandecasteele.com/blog/pde-constrained-optimization-part2/].
+If you're interested in the theory behind PDE-constrained optimization read [here](https://www.hvandecasteele.com/blog/pde-constrained-optimization/). If you want to read about this specific test case, go to the [blog post](https://www.hvandecasteele.com/blog/pde-constrained-optimization-part2/).
 
 ## Background
 
@@ -57,7 +57,7 @@ surface. Increasing the amount of catalyst boosts conversion, but it also raises
 escapes through the reactor wall in proportion to the difference between the
 gas and wall temperatures and to the reactor’s perimeter‑to‑area ratio. Finally, diffusion smooths out local temperature spikes.
 
-We do not explain these equations further in this README, go to (the blog)[https://hannesvdc.substack.com/p/pde-constrained-optimization-part].
+We do not explain these equations further in this README, go to [the blog](https://hannesvdc.substack.com/p/pde-constrained-optimization-part).
 
 ## Temperature spikes and hysteresis
 
